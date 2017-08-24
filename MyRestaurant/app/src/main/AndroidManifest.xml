@@ -42,7 +42,8 @@
         <activity android:name=".PlatosActivity" />
         <activity android:name=".EntradasActivity" />
         <activity android:name=".BebidasActivity" />
-        <activity android:name=".MenuActivity"></activity>
+        <activity android:name=".MenuActivity" />
+        <activity android:name=".AcercaDeActivity"></activity>
     </application>
 
 </manifest>
